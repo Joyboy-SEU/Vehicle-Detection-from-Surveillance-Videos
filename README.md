@@ -19,7 +19,7 @@ Different from other datasets, this dataset involves a lot of privacy such as li
 
 ## 3. Citation
 
-Our  paper **<u>《All-day Vehicle Detection from Surveillance Videos Based on Illumination-Adjustable Generative Adversarial Network》</u>**is submitted to Journal ***《IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS》***,  When accepted, welcome to kindly cite it.
+Our  paper **《All-day Vehicle Detection from Surveillance Videos Based on Illumination-Adjustable Generative Adversarial Network》**is submitted to Journal ***《IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS》***,  When accepted, welcome to kindly cite it.
 
 The below figure demonstrates some results of day-to-night translation by our proposed IA-GAN, which could transform labeled daytime images into multiple nighttime images with diverse illumination, using an adjustable illumination vector as input. 
 
